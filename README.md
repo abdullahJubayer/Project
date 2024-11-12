@@ -11,7 +11,6 @@
 <p align="center">
   <img src="1.jpeg" alt="Project 1 Screenshot 1" width="300">
   <img src="2.jpeg" alt="Project 1 Screenshot 2" width="300">
-  <img src="3.jpeg" alt="Project 1 Screenshot 3" width="300">
 </p>
 
 [Download the app here](https://play.google.com/store/apps/details?id=com.tos.namajtime&hl=en&gl=US)
@@ -19,7 +18,6 @@
 ## **Cholo-Shop**
 
 <p align="center">
-  <img src="6.png" alt="Project 3 Screenshot 1" width="300">
   <img src="7.png" alt="Project 3 Screenshot 2" width="300">
   <img src="8.png" alt="Project 3 Screenshot 3" width="300">
 </p>
@@ -28,8 +26,8 @@
 
 ## **XIT-COURIER**
 <p align="center">
-  <img src="9.webp" alt="Project 3 Screenshot 1" width="300">
   <img src="10.webp" alt="Project 3 Screenshot 1" width="300">
+  <img src="9.webp" alt="Project 3 Screenshot 1" width="300">
 </p>
 
 [Download the app here](https://play.google.com/store/apps/details?id=com.xit.rider)
